@@ -1,0 +1,36 @@
+{
+  "name": "anderson-mancini-website",
+  "version": "1.0.0",
+  "description": "Creative developer with over 20 years of experienced based in Brazilia - Brazil. Playing with Three.js",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "9.58.4",
+    "@react-three/fiber": "8.12.0",
+    "@react-three/postprocessing": "2.7.1",
+    "@studio-freight/lenis": "1.0.4",
+    "framer-motion": "10.11.2",
+    "leva": "0.9.34",
+    "maath": "0.5.2",
+    "react": "18.2.0",
+    "react-device-detect": "2.2.3",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "0.150.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
